@@ -7,9 +7,9 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * Termin: jeden Mittwoch 12-14 Uhr, erster Termin: 14.04.2021, letzter Termin: 14.07.2021 
 * Ort: https://uni-jena-de.zoom.us/j/68193002653
 * Leistungspunkte: 3LP
-* Prüfungsleistung: einmalige 15-minütige Paper Präsentation inkl. Ausarbeitung + 4 Hausaufgaben
+* Prüfungsleistung: einmalige 15-minütige Paper-Präsentation inkl. Ausarbeitung + 4 Hausaufgaben
 * Sprache: deutsch (english on demand)
-* Modulverantwortliche: Henrik Voigt (henrik.voigt@uni-jena.de) und Prof. Sina Zarrieß (sina.zarriess@uni-jena.de)
+* Modulverantwortliche: Henrik Voigt und Prof. Sina Zarrieß
 
 ## Inhalt
 
@@ -52,16 +52,15 @@ C) **Practice:** 30 Minuten **Live Coding** und Implementierung der besprochenen
 
 **WICHTIG:** Sowohl für die Präsentation der Paper als auch für Theorie und Coding werden die Programmiersprache **Python** in Kombination mit **Jupyter Notebooks** verwendet. 
 
-**WICHTIG:** Paper Präsentationen bitte bis **Montag 12.00 AM/midnight** vor der jeweiligen Seminar-Veranstaltung ins Repository in den Ordner /presentations hochladen, weil dann alle Teilnehmer rechtzeitig den Code für die folgende Veranstaltung erhalten. 
-* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und ladet dieses kurze Notebook unter folgendem Namen in den Ordner /presentations hoch:
+**WICHTIG:** Paper-Präsentationen bitte bis **Montag 12.00 AM/midnight** vor der jeweiligen Seminar-Veranstaltung an **henrik.voigt@uni-jena.de** senden, weil dann alle Teilnehmer rechtzeitig den Code für die folgende Veranstaltung erhalten. 
+* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und sendet mir dieses kurze Notebook unter folgendem Namen:
 * **Filename**: DATUM_PRESENTER z.b. 2021_04_21_Henrik_Voigt.ipynb 
 
 ## Materialien
 **WICHTIG:** Wir nutzen für dieses Modul **EIN** zentrales Repository für die Verwaltung aller Kursaufzeichnungen/Notebooks, Termine und Materialen, das heißt **DIESES** Repository ist der einzige Link, den ihr euch für die Veranstaltung merken/speichern müsst. 
 
-* Wenn möglich, nutzt www.gitlab.com (Nutzung kostenlos, Premium-Features für Studenten frei) und sendet mir eine Email mit eurem gitlab-namen an henrik.voigt@uni-jena.de bis spätestens **Freitag, 16.04.2021 12.00 PM/noon**. Anschließend werdet ihr zum repository **hinzugefügt**.
-* [Kursrepository](https://gitlab.com/clause/SS_2021_SEMINAR_Reinforcement_Learning_in_der_Sprachtechnologie)
-* Alternativ: Der Kursordner wird auf unserer Website (https://clause-bielefeld.github.io/) veröffentlicht, sodass ihr ihn da herunterladen könnt
+* [Kursrepository](https://github.com/clause-bielefeld/SS_2021_SEMINAR_Reinforcement_Learning_in_der_Sprachtechnologie)
+* Alternativ: Der Kursordner wird auf unserer Website (https://clause-bielefeld.github.io/) verlinkt, sodass ihr ihn auch da herunterladen könnt
 
 * **Jupyter Notebooks**: werden nach jeder Veranstaltung in diesem Kursrepository im ordner /course veröffentlicht
 
@@ -69,6 +68,7 @@ C) **Practice:** 30 Minuten **Live Coding** und Implementierung der besprochenen
 * -- https://www.semanticscholar.org/
 * -- http://www.arxiv-sanity.com/
 * -- https://scholar.google.de/
+* -- https://paperswithcode.com
 
 * **Themeninspiration**: 
 * -- Yannic Kilcher (https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
