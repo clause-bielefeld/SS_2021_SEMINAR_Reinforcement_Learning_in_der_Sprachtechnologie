@@ -2,28 +2,29 @@
 
 Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Sprachtechnologie' im Sommersemester 2021. 
 
-## Moduldetails
+### Moduldetails
 
-* Termin: jeden Mittwoch 12-14 Uhr, erster Termin: 14.04.2021, letzter Termin: 14.07.2021 
+* Termin: jeden **Mittwoch 12-14 Uhr**, erster Termin: 14.04.2021, letzter Termin: 14.07.2021 
 * Ort: https://uni-jena-de.zoom.us/j/68193002653
-* Leistungspunkte: 3LP
-* Prüfungsleistung: einmalige 15-minütige Paper-Präsentation inkl. Ausarbeitung + 4 Hausaufgaben
+* Kennwort: **siehe private Mail**
+* Leistungspunkte: **3LP**
+* Prüfungsleistung: einmalige **15-minütige Paper-Präsentation inkl. Ausarbeitung** + 4 Hausaufgaben
 * Sprache: deutsch (english on demand)
-* Modulverantwortliche: Henrik Voigt und Prof. Sina Zarrieß
+* Modulverantwortliche: **Prof. Sina Zarrieß** und **Henrik Voigt**
 
-## Inhalt
+### Inhalt 
 
 * Short Recap: Machine Learning
 * Short Recap: Implementierung von Machine Learning Konzepten in Python
 * Theory: Konzepte des Reinforcement Learning 
-* Theory: Sprachagenten:
+* Theory: Sprachagenten
 * -- skriptbasierten Agenten
-* -- Supervised-Learning basierende Agenten
-* -- Reinforcement Learning basierende Agenten
+* -- Supervised-Learning basierte Agenten
+* -- Reinforcement Learning basierte Agenten
 * Practice: Praktische Umsetzung von Reinforcement Learning Konzepten in Python
 * Practice: Implementierung von Sprachagenten in Python
 
-## Ablaufplan
+### Ablaufplan
 
 * 14.04.2021: Einführungsveranstaltung 
 * 21.04.2021: Short Recap: Konzepte des Machine Learning 
@@ -40,8 +41,8 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * 07.07.2021: Theory: Reinforcement Learning basierte Sprachagenten III
 * 14.07.2021: Theory: Code Review, Debugging, Fragen und Probleme
 
+### Ablauf einer Seminar-Veranstaltung
 
-## Ablauf einer Seminar-Veranstaltung
 Eine einzelne Seminar-Veranstaltung besteht aus **drei** Teilen: 
 
 A) **Discussion:** 30 Minuten **Präsentation** und **Diskussion** aktueller Paper aus dem Bereich **Machine Learning**, **Natural Language Processing** (NLP) und **Reinforcement Learning** (RL)
@@ -52,25 +53,69 @@ C) **Practice:** 30 Minuten **Live Coding** und Implementierung der besprochenen
 
 **WICHTIG:** Sowohl für die Präsentation der Paper als auch für Theorie und Coding werden die Programmiersprache **Python** in Kombination mit **Jupyter Notebooks** verwendet. 
 
-**WICHTIG:** Paper-Präsentationen bitte bis **Montag 12.00 AM/midnight** vor der jeweiligen Seminar-Veranstaltung an den Kursleiter per E-Mail senden, weil dann alle Teilnehmer rechtzeitig den Code für die folgende Veranstaltung erhalten. 
-* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und sendet mir dieses kurze Notebook unter folgendem Namen:
-* **Filename**: DATUM_PRESENTER z.b. 2021_04_21_Henrik_Voigt.ipynb 
+**WICHTIG:** Paper Präsentationen bitte bis **Montag 12.00 AM/midnight** an **henrik.voigt@uni-jena.de** senden, weil dann alle Teilnehmer rechtzeitig den Code für die folgende Veranstaltung erhalten. 
+* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und ladet dieses kurze Notebook unter folgendem Namen in den Ordner /presentations hoch:
+* **Filename**: DATUM_PRESENTER z.b. 2021_04_21_Henrik_Voigt.ipynb  
+* **Optional**: Sendet mir euer annotiertes Paper ebenfalls per Mail zu (Infos folgen), Filename: DATUM_PRESENTER_PAPERNAME_annotated.pdf
 
-## Materialien
+###  Materialien 
 **WICHTIG:** Wir nutzen für dieses Modul **EIN** zentrales Repository für die Verwaltung aller Kursaufzeichnungen/Notebooks, Termine und Materialen, das heißt **DIESES** Repository ist der einzige Link, den ihr euch für die Veranstaltung merken/speichern müsst. 
 
 * [Kursrepository](https://github.com/clause-bielefeld/SS_2021_SEMINAR_Reinforcement_Learning_in_der_Sprachtechnologie)
-* Alternativ: Der Kursordner wird auf unserer Website (https://clause-bielefeld.github.io/) verlinkt, sodass ihr ihn auch da herunterladen könnt
 
-* **Jupyter Notebooks**: werden nach jeder Veranstaltung in diesem Kursrepository im ordner /course veröffentlicht
+* Alternativ: Der Kursordner wird auf unserer Website (https://clause-bielefeld.github.io/teaching) unter /teaching veröffentlicht, sodass ihr ihn da herunterladen könnt
+
+
+* **Jupyter Notebooks**: werden nach jeder Veranstaltung im Kursrepository im Ordner /course veröffentlicht
+
+* **Annotierte Paper**: werden nach jeder Veranstaltung im Kursrepository im Ordner /materials veröffentlicht
 
 * **Literaturrecherche**: 
-* -- https://www.semanticscholar.org/
+* -- https://www.semanticscholar.org/ **!!!**
 * -- http://www.arxiv-sanity.com/
 * -- https://scholar.google.de/
-* -- https://paperswithcode.com
+* -- https://www.paperswithcode.com
+* -- https://www.aclweb.org/anthology/
 
 * **Themeninspiration**: 
 * -- Yannic Kilcher (https://www.youtube.com/channel/UCZHmQk67mSJgfCCTn7xBfew)
 * -- Henri AI Labs (https://www.youtube.com/channel/UCHB9VepY6kYvZjj0Bgxnpbw)
 * -- Two Minute Papers (https://www.youtube.com/user/keeroyz)
+
+* **Suggestions:**
+Som ideas for interesting papers to discuss ...
+* [Overview Survey Paper](https://www.semanticscholar.org/paper/Reinforcement-Learning%3A-A-Survey-Kaelbling-Littman/12d1d070a53d4084d88a77b8b143bad51c40c38f)
+* [Introduction Paper](https://www.semanticscholar.org/paper/Reinforcement-Learning%3A-An-Introduction-Sutton-Barto/97efafdb4a3942ab3efba53ded7413199f79c054)
+* [Tutorial Paper](https://www.semanticscholar.org/paper/Reinforcement-Learning%3A-A-Tutorial.-Harmon-Harmon/e7ac195959e2ce078902b000fc16ef2096fcec10)
+* [Algorithms for RL Paper](https://www.semanticscholar.org/paper/Algorithms-for-Reinforcement-Learning-Szepesvari/e60f3c1cb857daa3233f2c5b17b6f111ff86698c)
+* [Deep RL Paper](https://www.semanticscholar.org/paper/Deep-reinforcement-learning%3A-a-survey-Wang-Liu/16e83f3f0f78ceb203746eeb88f1f5aae9ba3092)
+* [RL and NLP Paper](https://www.semanticscholar.org/paper/A-Survey-of-Reinforcement-Learning-Informed-by-Luketina-Nardelli/7dc156eb9d84ae8fd521ecac5ccc5b5426a42b50)
+* [RL and NLP Paper II](https://www.semanticscholar.org/paper/An-Overview-of-Natural-Language-State-for-Learning-Madureira-Schlangen/a4069dd677b205fba61b4dea75e26c148dee99c5)
+
+
+### Fragen
+* **WICHTIG:** immer direkt per **AUDIO** im Zoom Call Fragen stellen! Diskussionen sind ausdrücklich erwünscht!
+* **ALTERNATIV:** Fragen im **Chat** posten 
+
+### Umfragen
+
+##### Genereller Background
+Bachelor - Master ? []
+Studienfach ? []
+
+##### Programmierung 
+Skala von 1-10: []
+
+##### Python 
+Skala von 1-10: []
+
+##### Jupyter Notebooks 
+Skala von 1-10: []
+
+##### Machine Learning 
+Skala von 1-10: []
+
+##### Natural Language Processing 
+Skala von 1-10: []
+
+***
