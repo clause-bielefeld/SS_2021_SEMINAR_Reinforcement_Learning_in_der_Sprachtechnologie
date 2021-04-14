@@ -97,25 +97,4 @@ Som ideas for interesting papers to discuss ...
 * **WICHTIG:** immer direkt per **AUDIO** im Zoom Call Fragen stellen! Diskussionen sind ausdrücklich erwünscht!
 * **ALTERNATIV:** Fragen im **Chat** posten 
 
-### Umfragen
-
-##### Genereller Background
-Bachelor - Master ? []
-Studienfach ? []
-
-##### Programmierung 
-Skala von 1-10: []
-
-##### Python 
-Skala von 1-10: []
-
-##### Jupyter Notebooks 
-Skala von 1-10: []
-
-##### Machine Learning 
-Skala von 1-10: []
-
-##### Natural Language Processing 
-Skala von 1-10: []
-
 ***
