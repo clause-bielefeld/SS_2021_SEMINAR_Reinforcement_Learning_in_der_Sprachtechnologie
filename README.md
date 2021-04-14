@@ -41,6 +41,10 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * 07.07.2021: Theory: Reinforcement Learning basierte Sprachagenten III
 * 14.07.2021: Theory: Code Review, Debugging, Fragen und Probleme
 
+Termin | Presenter | Paper
+--- | --- | ---
+05.05.2021 | XY | Z
+
 ### Ablauf einer Seminar-Veranstaltung
 
 Eine einzelne Seminar-Veranstaltung besteht aus **drei** Teilen: 
