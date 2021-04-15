@@ -58,7 +58,7 @@ C) **Practice:** 30 Minuten **Live Coding** und Implementierung der besprochenen
 **WICHTIG:** Sowohl für die Präsentation der Paper als auch für Theorie und Coding werden die Programmiersprache **Python** in Kombination mit **Jupyter Notebooks** verwendet. 
 
 **WICHTIG:** Paper Präsentationen bitte bis **Montag 12.00 AM/midnight** an **henrik.voigt@uni-jena.de** senden, weil dann alle Teilnehmer rechtzeitig den Code für die folgende Veranstaltung erhalten. 
-* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und ladet dieses kurze Notebook unter folgendem Namen in den Ordner /presentations hoch:
+* **Template**: Nutzt am besten das Jupyter Notebook der ersten Veranstaltung als Vorlage und sendet mir dieses mit folgender Benamung:
 * **Filename**: DATUM_PRESENTER z.b. 2021_04_21_Henrik_Voigt.ipynb  
 * **Optional**: Sendet mir euer annotiertes Paper ebenfalls per Mail zu (Infos folgen), Filename: DATUM_PRESENTER_PAPERNAME_annotated.pdf
 
