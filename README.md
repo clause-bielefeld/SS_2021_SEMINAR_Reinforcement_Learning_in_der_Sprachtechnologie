@@ -100,5 +100,6 @@ Som ideas for interesting papers to discuss ...
 ### Fragen
 * **WICHTIG:** immer direkt per **AUDIO** im Zoom Call Fragen stellen! Diskussionen sind ausdrücklich erwünscht!
 * **ALTERNATIV:** Fragen im **Chat** posten 
+* **WICHTIG:** hier findet ihr unsere Terminumfrage für die Paper Präsentationen https://terminplaner4.dfn.de/XP1MLFhVyz1eA44a
 
 ***
