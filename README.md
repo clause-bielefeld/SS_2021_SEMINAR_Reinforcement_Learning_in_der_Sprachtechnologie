@@ -41,9 +41,26 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * 07.07.2021: Theory: Reinforcement Learning basierte Sprachagenten III
 * 14.07.2021: Theory: Code Review, Debugging, Fragen und Probleme
 
-Termin | Presenter | Paper
---- | --- | ---
-05.05.2021 | XY | Z
+Termin | Presenter | Paper| H1 | H2 | H3 | H4 |
+--- | --- | ---| | | | |
+05.05.2021 |  |  | | | |
+12.05.2021 |  | | | | | | 
+19.05.2021 | Felix | Twitter Sprachverarbeitung | | | | |
+26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation |[x]| | | |
+26.05.2021 | Daniel | | | | | |
+26.05.2021 | Anne | | | | | |
+02.06.2021 | Jovanka | | | | | |
+02.06.2021 | Toni | | | | | |
+02.06.2021 | Julia | | | | | |
+9.06.2021 | Judith | | | | | |
+16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | | | | |
+16.06.2021 | Nazia | Graph Constrained Reinforcement Learning for Natural Language Action Spaces | | | | |
+16.06.2021 | Alina | | [x]| | | |
+23.06.2021 | Hannes | Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning | [x]| | | |
+30.06.2021 | Jonas | | | | | |
+07.07.2021 | Bianka | | | | | |
+14.07.2021 | | | | | | |
+
 
 ### Ablauf einer Seminar-Veranstaltung
 
