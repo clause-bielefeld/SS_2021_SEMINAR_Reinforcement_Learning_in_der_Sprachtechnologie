@@ -41,7 +41,7 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * 07.07.2021: Theory: Reinforcement Learning basierte Sprachagenten III
 * 14.07.2021: Theory: Code Review, Debugging, Fragen und Probleme
 
-Termin | Presenter | Paper| H1 | H2 | H3 | H4 |
+Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 --- | --- | --- | --- | --- | --- | --- |
 05.05.2021 |  |  | | | |
 12.05.2021 |  | | | | | | 
