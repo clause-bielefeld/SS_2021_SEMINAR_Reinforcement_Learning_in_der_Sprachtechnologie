@@ -51,7 +51,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 26.05.2021 | Anne | | | | | |
 02.06.2021 | Jovanka | |[x] | | | |
 02.06.2021 | Toni | | [x]| | | |
-02.06.2021 | Julia | | | | | |
+02.06.2021 | Julia | |[x] | | | |
 9.06.2021 | Judith | | [x]| | | |
 16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | | |
 16.06.2021 | Nazia | | [x]| | | |
