@@ -47,19 +47,19 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 12.05.2021 |  | | | | | | 
 19.05.2021 | Felix | Twitter Sprachverarbeitung | [x]| | | |
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] | | | |
-26.05.2021 | Daniel | [x]| | | | |
+26.05.2021 | Daniel | |[x] | | | |
 26.05.2021 | Anne | | | | | |
-02.06.2021 | Jovanka | [x]| | | | |
-02.06.2021 | Toni |[x] | | | | |
+02.06.2021 | Jovanka | |[x] | | | |
+02.06.2021 | Toni | | [x]| | | |
 02.06.2021 | Julia | | | | | |
-9.06.2021 | Judith | [x]| | | | |
-16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | | |
-16.06.2021 | Nazia |[x]| | | | |
+9.06.2021 | Judith | | [x]| | | |
+16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | |[x] | | |
+16.06.2021 | Nazia | | [x]| | | |
 16.06.2021 | Alina | Graph Constrained Reinforcement Learning for Natural Language Action Spaces | [x]| | | |
 23.06.2021 | Hannes | Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning | [x]| | | |
-30.06.2021 | Jonas | [x]| | | | |
+30.06.2021 | Jonas | | [x]| | | |
 07.07.2021 | Bianka | | | | | |
-14.07.2021 | Florian|[x] | | | | |
+14.07.2021 | Florian| |[x] | | | |
 
 
 ### Ablauf einer Seminar-Veranstaltung
