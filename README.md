@@ -48,7 +48,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | | |
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] | | | |
 26.05.2021 | Daniel | |[x] | | | |
-26.05.2021 | Anne | | | | | |
+26.05.2021 | Anne | | [x]| | | |
 02.06.2021 | Jovanka | |[x] | | | |
 02.06.2021 | Toni | | [x]| | | |
 02.06.2021 | Julia | |[x] | | | |
@@ -58,7 +58,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 16.06.2021 | Alina | Graph Constrained Reinforcement Learning for Natural Language Action Spaces | [x]| | | |
 23.06.2021 | Hannes | Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning | [x]| | | |
 30.06.2021 | Jonas | | [x]| | | |
-07.07.2021 | Bianka | | | | | |
+07.07.2021 | Bianka | |[x]  | | | |
 14.07.2021 | Florian| |[x] | | | |
 
 
