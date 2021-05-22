@@ -48,7 +48,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | | |
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] | | | |
 26.05.2021 | Daniel | |[x] | | | |
-26.05.2021 | Anne | | [x]| | | |
+26.05.2021 | Anne |Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | | |
 02.06.2021 | Jovanka | |[x] | | | |
 02.06.2021 | Toni | | [x]| | | |
 02.06.2021 | Julia | |[x] | | | |
