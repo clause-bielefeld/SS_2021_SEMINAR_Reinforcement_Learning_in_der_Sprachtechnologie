@@ -31,8 +31,8 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * 28.04.2021: Short Recap: Implementierung von Machine Learning Konzepten in Python
 * 05.05.2021: Theory: Grundlagen des Reinforcement Learning I
 * 12.05.2021: Theory: Grundlagen des Reinforcement Learning II
-* 19.05.2021: Practice Session: RL Examples in Python
-* 26.05.2021: Practice Session: RL Examples in Python
+* 19.05.2021: Practice Session I: RL Examples in Python
+* 26.05.2021: Practice Session II: RL Examples in Python
 * 02.06.2021: Theory: Skriptbasierte Sprachagenten I
 * 09.06.2021: Theory: Supervised Learning basierte Sprachagenten I
 * 16.06.2021: Theory: Supervised Learning basierte Sprachagenten II
