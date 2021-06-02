@@ -51,7 +51,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | | |
 02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] | | | |
 02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | | |
-02.06.2021 | Julia | |[x] | | | |
+02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | | |
 9.06.2021 | Judith | | [x]| | | |
 16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | | |
 16.06.2021 | Alina | Graph Constrained Reinforcement Learning for Natural Language Action Spaces | [x]| | | |
