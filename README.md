@@ -43,7 +43,7 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 
 Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 --- | --- | --- | --- | --- | --- | --- |
-05.05.2021 |  |  | | |-|
+05.05.2021 |  | | | | |-|
 12.05.2021 |  | | | | |-| 
 19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | |-|
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] |[x] | |-|
