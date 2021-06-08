@@ -43,23 +43,23 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 
 Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 --- | --- | --- | --- | --- | --- | --- |
-05.05.2021 |  |  | | | |
-12.05.2021 |  | | | | | | 
-19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | | |
-26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] |[x] | | |
-26.05.2021 | Daniel | Sentiment Analysis for Reinforcement Learning |[x] | | | |
-26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | | |
-02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] | | | |
-02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | | |
-02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | | |
-9.06.2021 | Judith | | [x]| | | |
-16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | | |
+05.05.2021 |  |  | | | -|
+12.05.2021 |  | | | | | -| 
+19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | | -|
+26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] |[x] | | -|
+26.05.2021 | Daniel | Sentiment Analysis for Reinforcement Learning |[x] | | | -|
+26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | | -|
+02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] | | |- |
+02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | | -|
+02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | | -|
+9.06.2021 | Judith | Ranking Sentences for Extractive Summarization with Reinforcement Learning | [x]| | | -|
+16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | | -|
 16.06.2021 | Alina | Graph Constrained Reinforcement Learning for Natural Language Action Spaces | [x]| | | |
-23.06.2021 | Hannes | Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning | [x]| | | |
-23.06.2021 | Nazia | | [x]| | | |
-30.06.2021 | Jonas | | [x]| | | |
-07.07.2021 | Bianka | |[x]  | | | |
-14.07.2021 | Florian| |[x] | | | |
+23.06.2021 | Hannes | Clickbait? Sensational Headline Generation with Auto-tuned Reinforcement Learning | [x]| | | -|
+23.06.2021 | Nazia | | [x]| | | -|
+30.06.2021 | Jonas | | [x]| | | -|
+07.07.2021 | Bianka | |[x]  | ||-|
+14.07.2021 | Florian| |[x] | | | -|
 
 
 ### Ablauf einer Seminar-Veranstaltung
