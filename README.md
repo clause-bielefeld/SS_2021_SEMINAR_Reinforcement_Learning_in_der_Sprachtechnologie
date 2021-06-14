@@ -49,7 +49,7 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] |[x] | |-|
 26.05.2021 | Daniel | Sentiment Analysis for Reinforcement Learning |[x] | | |-|
 26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | |-|
-02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] | | |-|
+02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] |[x] | |-|
 02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | |-|
 02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | |-|
 9.06.2021 | Judith | Ranking Sentences for Extractive Summarization with Reinforcement Learning | [x]| | |-|
