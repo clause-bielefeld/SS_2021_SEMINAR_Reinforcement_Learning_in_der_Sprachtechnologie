@@ -52,10 +52,10 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] |[x] | |-|
 02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | |-|
 02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | |-|
-9.06.2021 | Judith | Ranking Sentences for Extractive Summarization with Reinforcement Learning | [x]| | |-|
-16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]| | |-|
+9.06.2021 | Judith | Ranking Sentences for Extractive Summarization with Reinforcement Learning | [x]|[x] | |-|
+16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]|[x] | |-|
 23.06.2021 | Nazia | | [x]| | |-|
-30.06.2021 | Jonas | | [x]| | |-|
+30.06.2021 | Jonas | | [x]|[x] | |-|
 07.07.2021 | Bianka | |[x]  | ||-|
 14.07.2021 | Florian| |[x] | | |-|
 
