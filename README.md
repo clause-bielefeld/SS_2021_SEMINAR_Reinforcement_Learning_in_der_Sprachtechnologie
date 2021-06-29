@@ -45,19 +45,19 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 --- | --- | --- | --- | --- | --- | --- |
 05.05.2021 |  | | | | |-|
 12.05.2021 |  | | | | |-| 
-19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]| | |-|
+19.05.2021 | Felix | Depression Detection on Social Media with Reinforcement Learning | [x]|[x]| |-|
 26.05.2021 | Harry | Data Boost: Text Data Augmentation Through Reinforcement Learning Guided Conditional Generation | [x] |[x] | |-|
-26.05.2021 | Daniel | Sentiment Analysis for Reinforcement Learning |[x] | | |-|
-26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]| | |-|
+26.05.2021 | Daniel | Sentiment Analysis for Reinforcement Learning |[x] |[x] | |-|
+26.05.2021 | Anne | Reinforcement-Learning Based Portfolio Management with Augmented Asset Movement Prediction States | [x]|[x] | |-|
 02.06.2021 | Jovanka |Reinforcement learning of minimalist grammars |[x] |[x] | |-|
-02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]| | |-|
-02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] | | |-|
+02.06.2021 | Toni | Reinforcement Learning for Relation Classification from Noisy Data| [x]|[x] | |-|
+02.06.2021 | Julia | Reinforced Extractive Summarization with Question-Focused Rewards|[x] |[x] | |-|
 9.06.2021 | Judith | Ranking Sentences for Extractive Summarization with Reinforcement Learning | [x]|[x] | |-|
 16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]|[x] | |-|
-23.06.2021 | Nazia | | [x]| | |-|
+23.06.2021 | Nazia | | [x]|[x] | |-|
 30.06.2021 | Jonas | | [x]|[x] | |-|
-07.07.2021 | Bianka | |[x]  | ||-|
-14.07.2021 | Florian| |[x] | | |-|
+07.07.2021 | Bianka | |[x] |[x] ||-|
+14.07.2021 | Florian| |[x] |[x] | |-|
 
 
 ### Ablauf einer Seminar-Veranstaltung
