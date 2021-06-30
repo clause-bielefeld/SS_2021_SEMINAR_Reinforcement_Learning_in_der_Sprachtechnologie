@@ -8,7 +8,7 @@ Repository für die Online-Lehrverantstaltung 'Reinforcement Learning in der Spr
 * Ort: https://uni-jena-de.zoom.us/j/68193002653
 * Kennwort: **siehe private Mail**
 * Leistungspunkte: **3LP**
-* Prüfungsleistung: einmalige **15-minütige Paper-Präsentation inkl. Ausarbeitung** + 4 Hausaufgaben
+* Prüfungsleistung: einmalige **15-minütige Paper-Präsentation inkl. Ausarbeitung** + 3 Hausaufgaben
 * Sprache: deutsch (english on demand)
 * Modulverantwortliche: **Prof. Sina Zarrieß** und **Henrik Voigt**
 
