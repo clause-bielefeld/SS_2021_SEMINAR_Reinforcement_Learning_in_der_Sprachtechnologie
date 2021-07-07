@@ -56,7 +56,6 @@ Date | Presenter | Paper| H1 | H2 | H3 | H4 |
 16.06.2021 | Bianca | Grounding Natural Language Commands to StarCraft II Game States for Narration-Guided Reinforcement Learning | [x]|[x] | |-|
 23.06.2021 | Nazia |Generating Visual Explanations | [x]|[x] | |-|
 30.06.2021 | Jonas | Using Natural Language for Reward Shaping in Reinforcement Learning| [x]|[x] | |-|
-07.07.2021 | Bianka | |[x] |[x] ||-|
 14.07.2021 | Florian| |[x] |[x] | |-|
 
 
